@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+
+.header{
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 18px;
+        background: red;
+    }
+
+    .container{
+        text-align: center;
+        font-size: 30px;
+    }
