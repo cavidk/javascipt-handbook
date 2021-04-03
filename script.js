@@ -261,7 +261,7 @@
             //       var form = document.forms["form1"];
             //       var  deger = form["isim"].value;
             //       if (deger == ""){
-            //       alert("Isim alani bos birakilamaz!");
+            //       alert("Isim alani bos birakilamaz! yenisini ekle lutfen!");
             //       return false; 
             //    } return true;
             // }
